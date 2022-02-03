@@ -22,9 +22,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shurikev&layout=compact&theme=buefy)](https://github.com/shurikev)
 -->
 
-![trophy](https://github-profile-trophy.vercel.app/?username=shurikev&theme=darkhub&no-bg=true&no-frame=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=shurikev&theme=darkhub&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2&column=4)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shurikev)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shurikev&layout=compact)](https://github.com/shurikev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shurikev)](https://github.com/shurikev/github-readme-stats)
+[![shurikev's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=shurikev&theme=dark)](https://github.com/shurikev/leetcode-stats)
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/shurikev)
+
+Темная маленькая:   
+[![Aleksandr StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=928247&theme=dark)](https://stackoverflow.com/users/928247/shurikev)
 
 Hi, I am Aleksnadr from Novosibirsk. Passionate about Microsoft services, Windows & PowerShell. Learning technologies that I found interesting.
 
